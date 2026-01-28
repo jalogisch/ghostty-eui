@@ -1,0 +1,36 @@
+# Ghostty Theme: Elastic UI (Dark)
+# Based on the Elastic UI Framework color palette
+# https://eui.elastic.co
+
+# Base colors
+background = #07101F
+foreground = #E3E8F2
+
+# Cursor
+cursor-color = #0B64DD
+cursor-text = #FFFFFF
+
+# Selection
+selection-background = #1750BA
+selection-foreground = #FFFFFF
+
+# ANSI Color Palette
+# Normal colors (0-7)
+palette = 0=#2B394F
+palette = 1=#C61E25
+palette = 2=#008A5E
+palette = 3=#FACB3D
+palette = 4=#0B64DD
+palette = 5=#BC1E70
+palette = 6=#008B87
+palette = 7=#CAD3E2
+
+# Bright colors (8-15)
+palette = 8=#5A6D8C
+palette = 9=#F6726A
+palette = 10=#24C292
+palette = 11=#FCD883
+palette = 12=#61A2FF
+palette = 13=#EE72A6
+palette = 14=#16C5C0
+palette = 15=#F6F9FC
