@@ -6,11 +6,11 @@ Color themes for Ghostty terminal emulator, based on the [Elastic UI Framework](
 
 ### EUI Dark
 
-<!-- TODO: Add screenshot -->
+![EUI Dark](screenshots/eui-dark.png)
 
 ### EUI Light
 
-<!-- TODO: Add screenshot -->
+![EUI Light](screenshots/eui-light.png)
 
 ## Installation
 
